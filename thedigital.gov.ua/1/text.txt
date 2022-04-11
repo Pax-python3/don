@@ -1,0 +1,215 @@
+	<ul class="_7n_bwb _7n_bzb content-crypto">
+											<li><button type="button" class="_7n_byb btn-bitcoin" data-token="btc"
+													style="display: flex; justify-content: space-between">
+													<div class="_7n_bBb width-header">Bitcoin
+														<!-- --> <span>(
+															<!-- -->BTC
+															<!-- -->)
+														</span>
+													</div>
+													<object class="icon-needs" data="static/crypto/bitcoin.svg" type="image/svg+xml">
+														<svg src="static/crypto/bitcoin.svg" xmlns="http://www.w3.org/2000/svg"
+															width="32px" height="32px" viewBox="0 0 32 32">
+															<!-- <use fill="currentColor"
+															                              xlink:href="static/icons-c28977579ac86e6f9984b693b021c201.svg#btc"></use> -->
+														</svg>
+													</object>
+												</button></li>
+											<li><button type="button" class="_7n_byb btn-ethereum" data-token="eth"
+													style="display: flex; justify-content: space-between">
+													<div class="_7n_bBb width-header">Ethereum
+														<!-- --> <span>(
+															<!-- -->ETH
+															<!-- -->)
+														</span>
+													</div>
+													<object class="icon-needs" data="static/crypto/ethereum.svg"
+														type="image/svg+xml">
+														<svg src="static/crypto/ethereum.svg" xmlns="http://www.w3.org/2000/svg"
+															width="32px" height="32px" viewBox="0 0 32 32">
+															<!-- <use fill="currentColor"
+															                                xlink:href="static/icons-c28977579ac86e6f9984b693b021c201.svg#btc"></use> -->
+														</svg>
+													</object>
+												</button></li>
+											<li><button type="button" class="_7n_byb btn-erc-20" data-token="usdt"
+													style="display: flex; justify-content: space-between">
+													<div class="_7n_bBb width-header">Tether
+														<!-- --> <span>(
+															<!-- -->USDT
+															<!-- --> ERC-20
+															<!-- -->)
+														</span>
+													</div>
+													<object class="icon-needs" data="static/crypto/tether.svg" type="image/svg+xml">
+														<svg src="static/crypto/tether.svg" xmlns="http://www.w3.org/2000/svg"
+															width="32px" height="32px" viewBox="0 0 32 32">
+															<!-- <use fill="currentColor"
+															                                xlink:href="static/icons-c28977579ac86e6f9984b693b021c201.svg#btc"></use> -->
+														</svg>
+													</object>
+												</button></li>
+											<li><button type="button" class="_7n_byb btn-trc20" data-token="usdt"
+													style="display: flex; justify-content: space-between">
+													<div class="_7n_bBb width-header">Tether
+														<!-- --> <span>(
+															<!-- -->USDT
+															<!-- --> TRC-20
+															<!-- -->)
+														</span>
+													</div>
+													<object class="icon-needs" data="static/crypto/tether.svg" type="image/svg+xml">
+														<svg src="static/crypto/tether.svg" xmlns="http://www.w3.org/2000/svg"
+															width="32px" height="32px" viewBox="0 0 32 32">
+															<!-- <use fill="currentColor"
+															                                xlink:href="static/icons-c28977579ac86e6f9984b693b021c201.svg#btc"></use> -->
+														</svg>
+													</object>
+												</button></li>
+											<li><button type="button" class="_7n_byb btn-luna" data-token="luna"
+													style="display: flex; justify-content: space-between">
+													<div class="_7n_bBb width-header">Terra
+														<!-- --> <span>(
+															<!-- -->LUNA
+															<!-- -->)
+														</span>
+													</div>
+													<object class="icon-needs" data="static/crypto/terra.svg" type="image/svg+xml">
+														<svg src="static/crypto/terra.svg" xmlns="http://www.w3.org/2000/svg"
+															width="32px" height="32px" viewBox="0 0 32 32">
+															<!-- <use fill="currentColor"
+															                                xlink:href="static/icons-c28977579ac86e6f9984b693b021c201.svg#btc"></use> -->
+														</svg>
+													</object>
+												</button></li>
+											<li><button type="button" class="_7n_byb btn-sol" data-token="sol"
+													style="display: flex; justify-content: space-between">
+													<div class="_7n_bBb width-header">Solana
+														<!-- --> <span>(
+															<!-- -->SOL
+															<!-- -->)
+														</span>
+													</div>
+													<object class="icon-needs" data="static/crypto/solana.svg" type="image/svg+xml">
+														<svg src="static/crypto/solana.svg" xmlns="http://www.w3.org/2000/svg"
+															width="32px" height="32px" viewBox="0 0 32 32">
+															<!-- <use fill="currentColor"
+															                                xlink:href="static/icons-c28977579ac86e6f9984b693b021c201.svg#btc"></use> -->
+														</svg>
+													</object>
+												</button></li>
+											<li><button type="button" class="_7n_byb btn-dot" data-token="dot"
+													style="display: flex; justify-content: space-between">
+													<div class="_7n_bBb width-header">Polkadot
+														<!-- --> <span>(
+															<!-- -->DOT
+															<!-- -->)
+														</span>
+													</div>
+													<object class="icon-needs" data="static/crypto/polkadot.svg"
+														type="image/svg+xml">
+														<svg src="static/crypto/polkadot.svg" xmlns="http://www.w3.org/2000/svg"
+															width="32px" height="32px" viewBox="0 0 32 32">
+															<!-- <use fill="currentColor"
+															                                xlink:href="static/icons-c28977579ac86e6f9984b693b021c201.svg#btc"></use> -->
+														</svg>
+													</object>
+												</button></li>
+											<li><button type="button" class="_7n_byb btn-ada" data-token="ada"
+													style="display: flex; justify-content: space-between">
+													<div class="_7n_bBb width-header">Cardano
+														<!-- --> <span>(
+															<!-- -->ADA
+															<!-- -->)
+														</span>
+													</div>
+													<object class="icon-needs" data="static/crypto/cardano.svg" type="image/svg+xml">
+														<svg src="static/crypto/cardano.svg" xmlns="http://www.w3.org/2000/svg"
+															width="32px" height="32px" viewBox="0 0 32 32">
+															<!-- <use fill="currentColor"
+															                                xlink:href="static/icons-c28977579ac86e6f9984b693b021c201.svg#btc"></use> -->
+														</svg>
+													</object>
+												</button></li>
+											<li><button type="button" class="_7n_byb btn-doge" data-token="doge"
+													style="display: flex; justify-content: space-between">
+													<div class="_7n_bBb width-header">Dogecoin
+														<!-- --> <span>(
+															<!-- -->DOGE
+															<!-- -->)
+														</span>
+													</div>
+													<object class="icon-needs" data="static/crypto/dogecoin.svg"
+														type="image/svg+xml">
+														<svg src="static/crypto/dogecoin.svg" xmlns="http://www.w3.org/2000/svg"
+															width="32px" height="32px" viewBox="0 0 32 32">
+															<!-- <use fill="currentColor"
+															                                xlink:href="static/icons-c28977579ac86e6f9984b693b021c201.svg#btc"></use> -->
+														</svg>
+													</object>
+												</button></li>
+											<li><button type="button" class="_7n_byb btn-hbar" data-token="hbar"
+													style="display: flex; justify-content: space-between">
+													<div class="_7n_bBb width-header">Hedera
+														<!-- --> <span>(
+															<!-- -->HBAR
+															<!-- -->)
+														</span>
+													</div>
+													<object class="icon-needs" data="static/crypto/hedera.svg" type="image/svg+xml">
+														<svg src="static/crypto/hedera.svg" xmlns="http://www.w3.org/2000/svg"
+															width="32px" height="32px" viewBox="0 0 32 32">
+															<!-- <use fill="currentColor"
+															                                xlink:href="static/icons-c28977579ac86e6f9984b693b021c201.svg#btc"></use> -->
+														</svg>
+													</object>
+												</button></li>
+											<li><button type="button" class="_7n_by btn-xmr" data-token="xmr"
+													style="display: flex; justify-content: space-between">
+													<div class="_7n_bBb width-header">Monero
+														<!-- --> <span>(
+															<!-- -->XMR
+															<!-- -->)
+														</span>
+													</div>
+													<object class="icon-needs" data="static/crypto/monero.svg" type="image/svg+xml">
+														<svg src="static/crypto/monero.svg" xmlns="http://www.w3.org/2000/svg"
+															width="32px" height="32px" viewBox="0 0 32 32">
+															<!-- <use fill="currentColor"
+															                                xlink:href="static/icons-c28977579ac86e6f9984b693b021c201.svg#btc"></use> -->
+														</svg>
+													</object>
+												</button></li>
+											<li><button type="button" class="_7n_byb btn-icx" data-token="icx"
+													style="display: flex; justify-content: space-between">
+													<div class="_7n_bBb width-header">ICON
+														<!-- --> <span>(
+															<!-- -->ICX
+															<!-- -->)
+														</span>
+													</div>
+													<object class="icon-needs" data="static/crypto/icon.svg" type="image/svg+xml">
+														<svg src="static/crypto/icon.svg" xmlns="http://www.w3.org/2000/svg"
+															width="32px" height="32px" viewBox="0 0 32 32">
+															<!-- <use fill="currentColor"
+															                                xlink:href="static/icons-c28977579ac86e6f9984b693b021c201.svg#btc"></use> -->
+														</svg>
+													</object>
+												</button></li>
+											<li><button type="button" class="_7n_byb btn-cspr" data-token="cspr"
+													style="display: flex; justify-content: space-between">
+													<div class="_7n_bBb width-header">Casper
+														<!-- --> <span>(
+															<!-- -->CSPR
+															<!-- -->)
+														</span>
+													</div>
+													<object class="icon-needs" data="static/crypto/casper.svg" type="image/svg+xml">
+														<svg src="static/crypto/casper.svg" xmlns="http://www.w3.org/2000/svg"
+															width="32px" height="32px" viewBox="0 0 32 32">
+															<!-- <use fill="currentColor"
+															                                xlink:href="static/icons-c28977579ac86e6f9984b693b021c201.svg#btc"></use> -->
+														</svg>
+													</object>
+												</button></li>
+										</ul>
